@@ -6,7 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@rainbow-me/rainbowkit": "github:MichaelHDesigns/rainbowkit.git",
+    "@rainbow-me/rainbowkit": "git+https://git@github.com:michaelhdesigns/rainbowkit.git",
     "aos": "^2.3.4",
     "axios": "^1.2.0",
     "ethers": "^5.7.2",
@@ -19,7 +19,7 @@
     "react-spinners": "^0.13.6",
     "react-toastify": "^9.1.1",
     "swiper": "^8.4.5",
-    "wagmi": "github:MichaelHDesigns/wagmi.git"
+    "wagmi": "git+https://git@github.com:michaelhdesigns/wagmi.git"
   },
   "devDependencies": {
     "@types/aos": "^3.0.4",
