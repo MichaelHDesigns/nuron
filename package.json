@@ -20,7 +20,7 @@
     "react-toastify": "^9.1.1",
     "swiper": "^8.4.5",
     "wagmi": "github.com/michaelhdesigns/wagmi.git"
-  },
+  }
   "devDependencies": {
     "@types/aos": "^3.0.4",
     "@types/node": "18.11.3",
