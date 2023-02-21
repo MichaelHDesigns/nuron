@@ -6,7 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@rainbow-me/rainbowkit": "^0.8.0",
+    "@rainbow-me/rainbowkit": "git@github.com:MichaelHDesigns/rainbowkit.git",
     "aos": "^2.3.4",
     "axios": "^1.2.0",
     "ethers": "^5.7.2",
