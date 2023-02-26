@@ -19,7 +19,7 @@
     "react-spinners": "^0.13.6",
     "react-toastify": "^9.1.1",
     "swiper": "^8.4.5",
-    "wagmi": "^0.8.7"
+    "wagmi": "git+https://github.com/michaelhdesigns/wagmi"
   },
   "devDependencies": {
     "@types/aos": "^3.0.4",
